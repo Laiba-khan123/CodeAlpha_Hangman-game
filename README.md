@@ -23,7 +23,7 @@ How to Run:
   1. Clone this repository: 
     clone https://github.com/Laiba-khan123/CodeAlpha_Hangman-game.git 
   2. Navigate into the folder:
-    cd hangman-game 
+    cd CodeAlpha_Hangman-game 
   3. Run the game:
     python hangman.py
     
