@@ -19,9 +19,9 @@ Technologies Used:
       strings & lists, 
      	sets,
      
-How to Run: 
+How to Run: open VS code and in terminal which in view bar type the following commands 
   1. Clone this repository: 
-    clone https://github.com/Laiba-khan123/CodeAlpha_Hangman-game.git 
+    git clone https://github.com/Laiba-khan123/CodeAlpha_Hangman-game.git 
   2. Navigate into the folder:
     cd CodeAlpha_Hangman-game 
   3. Run the game:
