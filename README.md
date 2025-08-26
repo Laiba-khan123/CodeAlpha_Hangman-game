@@ -21,9 +21,9 @@ Technologies Used:
      
 How to Run: open VS code and in terminal which in view bar type the following commands 
   1. Clone this repository: 
-    git clone https://github.com/Laiba-khan123/CodeAlpha_Hangman-game.git 
+    git clone https://github.com/Laiba-khan123/Hangman-game-console-base.git 
   2. Navigate into the folder:
-    cd CodeAlpha_Hangman-game 
+    cd Hangman-game-console-base 
   3. Run the game:
     python hangman.py
     
